@@ -10,5 +10,6 @@ package pl.pzac.optymal;
  * @author Ala
  */
 public class Main {
+   //próba wpisania czegos
     
 }
